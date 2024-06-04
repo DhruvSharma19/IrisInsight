@@ -80,8 +80,6 @@ This project is an eye-tracking system that uses a ResNet model for iris estimat
 
 ## 🤝 Contributions
 
-## 🤝 Contributions
-
 We welcome contributions to IrisInsight! To contribute:
 
 1. **Fork the Repository**:
