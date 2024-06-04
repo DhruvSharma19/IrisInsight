@@ -8,7 +8,8 @@ This project is an eye-tracking system that uses a ResNet model for iris estimat
 
 ## 🛠️ System Diagrams
 
-
+![diagram (3)](https://github.com/DhruvSharma19/IrisInsight/assets/112254552/ecbd2604-9505-4c07-8144-7603ba2f304c)
+![diagram (2)](https://github.com/DhruvSharma19/IrisInsight/assets/112254552/26a32b43-6bd9-4e54-b54f-f681e350daf5)
 
 ## 🌟 Key Features
 
