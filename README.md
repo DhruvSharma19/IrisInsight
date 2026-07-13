@@ -1,42 +1,35 @@
-# 👁️ IrisInsight - Eye Tracker Using ResNet
+# IrisInsight - Eye Tracker Using ResNet
 
 This project is an eye-tracking system that uses a ResNet model for iris estimation. It involves collecting eye images, augmenting them, training a neural network to predict iris positions, and running a real-time eye tracker. The project is implemented in Python using TensorFlow, OpenCV, and Albumentations libraries.
 
-## 🎥 Demo Video
-
-
-
-## 🛠️ System Diagrams
+## System Diagrams
 
 ![diagram (3)](https://github.com/DhruvSharma19/IrisInsight/assets/112254552/ecbd2604-9505-4c07-8144-7603ba2f304c)
 ![diagram (2)](https://github.com/DhruvSharma19/IrisInsight/assets/112254552/26a32b43-6bd9-4e54-b54f-f681e350daf5)
 
-## 🌟 Key Features
+## Key Features
 
-- 📹 Real-time eye tracking using a webcam
-- 🔍 Iris position estimation with ResNet152V2 model
-- 🌟 Data augmentation for robust training
-- 🖼️ Interactive visualization of predictions
-- ⚙️ Easy to set up and run
+- Real-time eye tracking using a webcam
+- Iris position estimation with ResNet152V2 model
+- Data augmentation for robust training
+- Interactive visualization of predictions
+- Easy to set up and run
 
-## 🛠 Technologies Used
+## Technologies Used
 
-- 🐍 **Python**
-- 🔬 **TensorFlow**
-- 👁️ **OpenCV**
-- 🎨 **Albumentations**
-- 📈 **Matplotlib**
-
-## 📸 Screenshots
+- **Python**
+- **TensorFlow**
+- **OpenCV**
+- **Albumentations**
+- **Matplotlib**
 
 
-
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
-- 🐍 Python 3.x
-- 📹 Webcam
+- Python 3.x
+- Webcam
 
 ### Installation
 
@@ -57,9 +50,9 @@ This project is an eye-tracking system that uses a ResNet model for iris estimat
 
 ### Data Augmentation and Preparation
 
-1. 📁 Organize the captured images and label files into `train`, `test`, and `val` folders under the `data` directory.
+1. Organize the captured images and label files into `train`, `test`, and `val` folders under the `data` directory.
 
-2. 🌟 Run the data augmentation code provided in the `DataCollection.ipynb` notebook to augment the data and save it to the `aug_data` directory.
+2. Run the data augmentation code provided in the `DataCollection.ipynb` notebook to augment the data and save it to the `aug_data` directory.
 
 ### Model Training
 
@@ -79,7 +72,7 @@ This project is an eye-tracking system that uses a ResNet model for iris estimat
 
     *(Create a separate Python script named `RealTimeEyeTracker.py` that contains the real-time tracking code from the last cell of `IrisEstimation.ipynb`.)*
 
-## 🤝 Contributions
+## Contributions
 
 We welcome contributions to IrisInsight! To contribute:
 
@@ -116,7 +109,7 @@ We welcome contributions to IrisInsight! To contribute:
 
 We appreciate your contributions and will review your pull request as soon as possible!
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 A big thank you to everyone who contributed to this project! We appreciate your support and feedback.
 
